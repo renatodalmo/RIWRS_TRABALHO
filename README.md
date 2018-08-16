@@ -12,3 +12,20 @@ Integrantes:
 - Renato Dalmo
 
 #### Trabalho consiste em realizar a captura dos Twitter's da #Eleicoes2018 e realizar uma analise descretiva sobre o volume de twitter que são direcionados para os candidatos a presidencia da republica
+
+
+## Candidatos a Presidencia da Republica 2018
+
+- Lula PT
+- Jair Bolsonaro PSL
+- Marina Silva Rede
+- Ciro Gomes PDT
+- Geraldo Alckmin PSDB
+- Alvaro Dias Podemos
+- Henrique Meirelles MDB
+- Guilherme Boulos PSOL
+- José Maria Eymael Democracia Cristã
+- Cabo Daciolo Patriota
+- João Amoêdo Novo
+- João Goulart Filho PPL
+- Vera PSTU
